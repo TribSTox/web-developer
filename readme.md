@@ -105,7 +105,16 @@ Any new icons used in the extension should come from these existing icon sets fo
 
 ### Editor Configuration
 
+
 An [EditorConfig](http://editorconfig.org/) file is included to unify the coding style for different editors.
+
+### Windows Use
+
+In first, you have to install the build tools:
+```sh
+npm install --global --production windows-build-tools
+```
+Build success with NodeJS v11.12
 
 Acknowledgements
 ----------------
