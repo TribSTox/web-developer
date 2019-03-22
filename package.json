@@ -10,7 +10,7 @@
   "devDependencies": {
     "dateformat": "*",
     "del": "*",
-    "gulp": "*",
+    "gulp": "^3.9.0",
     "gulp-concat": "*",
     "gulp-csslint": "*",
     "gulp-eslint": "*",
